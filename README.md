@@ -1,0 +1,2 @@
+# Gereksinimler
+GEreksinimler ve detaylar
