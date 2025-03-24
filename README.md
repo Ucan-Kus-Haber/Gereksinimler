@@ -21,3 +21,13 @@ Uygulama Adresi: ucankushaber.com
 Grup Adı: News Oracles
 
 Proje Ekibi: Muhittin Dayan, Muhammed Ecer, Emre Can Reyhan, Azat Vepakulyyev
+
+
+
+Linkler 
+
+[KisiDagilimi](KisiDagilimi.md)
+
+
+
+
