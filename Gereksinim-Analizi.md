@@ -27,10 +27,10 @@
 
 
 
-[1. Muhittin Dayan Gereksinimleri](MuhittinDayan.md)
+- [1. Muhittin Dayan Gereksinimleri](MuhittinDayan.md)
 
-[2. Muhammed Ecer Gereksinimleri](MuhammedEcer.md)
+- [2. Muhammed Ecer Gereksinimleri](MuhammedEcer.md)
 
-[3. Azat Vepakulyyev Gereksinimleri](Durum-Senaryolari/AzatVepakulyyev.pdf)
+- [3. Azat Vepakulyyev Gereksinimleri](AzatVepakulyyev-Gereksinimler.md)
 
-[4. Emre Can Reyhan Gereksinimleri](EmreCanReyhan.md)
+- [4. Emre Can Reyhan Gereksinimleri](EmreCanReyhan.md)
