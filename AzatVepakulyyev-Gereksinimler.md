@@ -24,3 +24,11 @@ Kullanıcıların belirli bir kategoriye ait haberleri kolayca bulmalarını sa�
 
 En son eklenen veya güncellenen haberlerin anasayfada öne çıkarılmasını sağlar. Bu özellik, kullanıcıların güncel gelişmelerden hızla haberdar olmasına olanak tanır. Son dakika haberleri genellikle diğer haberlerden görsel veya tasarımsal olarak ayrılır.
 
+
+
+
+
+
+Azat Vepakulyyev
+
+[Durum-Senaryolari](Durum-Senaryolari/AzatVepakulyyev-Gereksinimler.pdf)
