@@ -31,6 +31,6 @@
 
 [2. Muhammed Ecer Gereksinimleri](MuhammedEcer.md)
 
-[3. Azat Vepakulyyev Gereksinimleri](AzatVepakulyyev/AzatVepakulyyev.md)
+[3. Azat Vepakulyyev Gereksinimleri](AzatVepakulyyev/AzatVepakulyyev.pdf)
 
 [4. Emre Can Reyhan Gereksinimleri](EmreCanReyhan.md)
