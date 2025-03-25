@@ -26,8 +26,8 @@ Proje Ekibi: Muhittin Dayan, Muhammed Ecer, Emre Can Reyhan, Azat Vepakulyyev
 
 Linkler 
 
-[Gereksinim-Analizi](Gereksinim-Analizi.md)
-[Use-Case-Sablonu](Use-Case-Sablonu.png)
+- [Gereksinim-Analizi](Gereksinim-Analizi.md)  
+- [Use-Case-Sablonu](Use-Case-Sablonu.png)
 
 
 
