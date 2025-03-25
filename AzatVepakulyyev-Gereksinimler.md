@@ -31,4 +31,4 @@ En son eklenen veya güncellenen haberlerin anasayfada öne çıkarılmasını s
 
 Azat Vepakulyyev
 
-[Durum-Senaryolari](Durum-Senaryolari/AzatVepakulyyev-Gereksinimler.pdf)
+[Durum-Senaryolari](Durum-Senaryolari/AzatVepakulyyev-DurumSenaryosu.pdf)
