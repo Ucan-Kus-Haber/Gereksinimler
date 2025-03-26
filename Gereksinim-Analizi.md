@@ -15,7 +15,7 @@
 13. Haber Kaydetme ve Okuma Geçmişi ( Muhittin Dayan)
 14. Bildirim Sistemi (Anlık Haber Bildirimleri) ( Muhittin Dayan)
 15. Yorum Yapma  ( Muhammed Ecer )
-16. Yorumları Şikayet Etme ( Muhammed Ecer )
+16.  Şikayet Etme ( Muhammed Ecer )
 17. Haberleri Beğenme (Like/Dislike) ( Muhammed Ecer )
 18. Haberleri Favorilere Ekleme ( Muhammed Ecer )
 19. Dil secenekleri( Muhammed Ecer )
