@@ -26,7 +26,7 @@ Proje Ekibi: Muhittin Dayan, Muhammed Ecer, Emre Can Reyhan, Azat Vepakulyyev
 
 Linkler 
  1. Odev Grub proje belirleme
-- [Readme-dosyasi](Readme.md)
+- [Readme-dosyasi](README.md)
   
 2. Odev gereksinim Analizi
 - [Gereksinim-Analizi](Gereksinim-Analizi.md)
