@@ -16,23 +16,20 @@ Yetkili kişilerin (admin/editör) platformda yer alan eski, yanlış veya yayı
 
 Haberlerin içeriğine görsel, video veya diğer medya ögelerinin eklenmesini sağlar. Bu özellik, haberlerin görsel açıdan daha çekici hale gelmesine ve okuyucuların haberleri daha iyi anlamasına yardımcı olur. Ayrıca, medya dosyalarının yüklenmesi ve yönetimi için bir dosya yönetim sistemi entegre edilmelidir.
 
-**5. Kategori Bazlı Haber Filtreleme**
 
-Kullanıcıların belirli bir kategoriye ait haberleri kolayca bulmalarını sağlayan bir filtreleme mekanizmasıdır. Bu sayede kullanıcılar ilgi alanlarına göre haberleri sıralayabilir ve aradıkları içeriğe daha hızlı ulaşabilir.
-
-**6. Anasayfa’da Son Dakika Haberleri**
+**5. Anasayfa’da Son Dakika Haberleri**
 
 En son eklenen veya güncellenen haberlerin anasayfada öne çıkarılmasını sağlar. Bu özellik, kullanıcıların güncel gelişmelerden hızla haberdar olmasına olanak tanır. Son dakika haberleri genellikle diğer haberlerden görsel veya tasarımsal olarak ayrılır.
 
-**7. Veritabanı Yönetimi**
+**6. Veritabanı Yönetimi**
 
 Platformdaki haberlerin, kullanıcı bilgilerinin ve diğer kritik verilerin saklanması, güncellenmesi ve optimize edilmesini sağlayan bir veritabanı yönetim sistemidir. Veritabanının performansının optimize edilmesi, veri yedekleme stratejilerinin uygulanması ve güvenlik politikalarının belirlenmesi önemlidir.
 
-**8. Cloudflare Yönetimi**
+**7. Cloudflare Yönetimi**
 
 Cloudflare entegrasyonu, R2 Database ve S3 yönetimini kapsar. Bu sistemler, veri depolama ve yedekleme için kullanılır ve platformun performansını optimize etmeye yardımcı olur. Verilerin güvenli bir şekilde saklanması ve erişim yönetiminin sağlanması için gerekli düzenlemeler yapılmalıdır.
 
-**9. Kullanıcı Bilgileri Güvenliği**
+**8. Kullanıcı Bilgileri Güvenliği**
 
 Platformda kullanıcı bilgileri güvenliğinin sağlanması kritik bir konudur. Kullanıcı hesaplarının korunması için güçlü şifreleme yöntemleri uygulanmalı, veri ihlallerine karşı güvenlik duvarları ve kimlik doğrulama mekanizmaları devreye alınmalıdır. Ayrıca, yetkisiz erişimlere karşı güvenlik denetimleri düzenli olarak yapılmalıdır.
 
