@@ -38,7 +38,7 @@ Linkler
 
 
  4. Odev Durum Senaryolari 
--
+- [Azat Vepakulyyev](Durum
 
 
 
