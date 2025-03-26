@@ -18,7 +18,7 @@
 16. Yorumları Şikayet Etme ( Muhammed Ecer )
 17. Haberleri Beğenme (Like/Dislike) ( Muhammed Ecer )
 18. Haberleri Favorilere Ekleme ( Muhammed Ecer )
-19.  ( Muhammed Ecer )
+19. Dil secenekleri( Muhammed Ecer )
 20. En Çok Okunan Haberler Listesi ( Muhammed Ecer )
 21. Admin Paneli (Kullanıcı ve Haber Yönetimi) ( Emre Can Reyhan )
 22. Arama Çubuğu ( Emre Can Reyhan )
