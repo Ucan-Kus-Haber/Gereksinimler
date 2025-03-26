@@ -1,4 +1,4 @@
-﻿**Azat - Haber Yönetimi**
+**Azat - Haber Yönetimi**
 
 **1. Haber Ekleme**
 
@@ -24,11 +24,11 @@ Kullanıcıların belirli bir kategoriye ait haberleri kolayca bulmalarını sa�
 
 En son eklenen veya güncellenen haberlerin anasayfada öne çıkarılmasını sağlar. Bu özellik, kullanıcıların güncel gelişmelerden hızla haberdar olmasına olanak tanır. Son dakika haberleri genellikle diğer haberlerden görsel veya tasarımsal olarak ayrılır.
 
+**7. Veritabanı Yönetimi**
 
+Platformdaki haberlerin, kullanıcı bilgilerinin ve diğer kritik verilerin saklanması, güncellenmesi ve optimize edilmesini sağlayan bir veritabanı yönetim sistemidir. Veritabanının performansının optimize edilmesi, veri yedekleme stratejilerinin uygulanması ve güvenlik politikalarının belirlenmesi önemlidir.
 
+**8. Cloudflare Yönetimi**
 
+Cloudflare entegrasyonu, R2 Database ve S3 yönetimini kapsar. Bu sistemler, veri depolama ve yedekleme için kullanılır ve platformun performansını optimize etmeye yardımcı olur. Verilerin güvenli bir şekilde saklanması ve erişim yönetiminin sağlanması için gerekli düzenlemeler yapılmalıdır.
 
-
-Azat Vepakulyyev
-
-[Durum-Senaryolari](Durum-Senaryolari/AzatVepakulyyev-DurumSenaryosu.pdf)
