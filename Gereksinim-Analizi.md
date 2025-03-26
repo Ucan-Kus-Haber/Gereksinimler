@@ -35,4 +35,4 @@
 
 - [3. Azat Vepakulyyev Gereksinimleri](AzatVepakulyyev-Gereksinimler.md)
 
-- [4. Emre Can Reyhan Gereksinimleri](EmreCanReyhan.md)
+- [4. Emre Can Reyhan Gereksinimleri](Emre Can Reyhan-Gereksinimler.md)
