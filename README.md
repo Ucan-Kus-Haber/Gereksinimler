@@ -34,7 +34,7 @@ Linkler
 
   
  3. Odev Durum Diagrami
-- [Durum-Diagrami](Use-Case-Sablonu.pdf)
+- [Durum-Diagrami](Durum-Diagrami.pdf)
 
 
  4. Odev Durum Senaryolari 
