@@ -30,6 +30,7 @@ Linkler
   
 2. Odev gereksinim Analizi
 - [Gereksinim-Analizi](Gereksinim-Analizi.md)
+- [Azat Vepakulyyev Gereksinimler](AzatVepakulyyev-Gereksinimler.md)
 
   
  3. Odev Durum Diagrami
