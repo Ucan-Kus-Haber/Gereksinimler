@@ -42,5 +42,6 @@ Linkler
  4. Odev Durum Senaryolari 
 - [Azat Vepakulyyev](Durum-Senaryolari/AzatVepakulyyev-DurumSenaryosu.pdf)
 - [Muhittin Dayan Durum Senaryosu](Durum-Senaryolari/MuhittinDayan-DurumSenaryosu.pdf)
+- [Muhammed Ecer Durum Senaryosu](Durum-Senaryolari/MuhammedEcer-DurumSenaryosu.pdf)
 
 
