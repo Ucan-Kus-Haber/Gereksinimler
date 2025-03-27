@@ -43,5 +43,6 @@ Linkler
 - [Azat Vepakulyyev](Durum-Senaryolari/AzatVepakulyyev-DurumSenaryosu.pdf)
 - [Muhittin Dayan Durum Senaryosu](Durum-Senaryolari/MuhittinDayan-DurumSenaryosu.pdf)
 - [Muhammed Ecer Durum Senaryosu](Durum-Senaryolari/MuhammedEcer-DurumSenaryosu.pdf)
+- [Emre Can Reyhan Durum Senaryosu](Durum-Senaryolari/EmreCanReyhan-DurumSenaryosu.pdf)
 
 
