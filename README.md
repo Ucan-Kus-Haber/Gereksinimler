@@ -32,6 +32,7 @@ Linkler
 - [Gereksinim-Analizi](Gereksinim-Analizi.md)
 - [Azat Vepakulyyev Gereksinimler](AzatVepakulyyev-Gereksinimler.md)
 - [Muhittin Dayan - Gereksinimler](Muhittin-Dayan-Gereksinimler.md)
+- [Muhammed Ecer - Gereksinimler](MuhammedEcer-Gereksinimler.md)
 - [Emre Can Reyhan - Gereksinimler](EmreCanReyhan-Gereksinimler.md)
 
   
