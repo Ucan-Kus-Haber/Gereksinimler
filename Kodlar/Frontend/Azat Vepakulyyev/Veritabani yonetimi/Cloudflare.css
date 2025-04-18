@@ -1,0 +1,223 @@
+/* src/components/cloudflare/Cloudflare.css */
+.admin-container {
+    min-height: 100vh;
+    background-color: #f3f4f6;
+    padding: 24px;
+}
+
+.admin-content {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.admin-header {
+    margin-bottom: 24px;
+}
+
+.admin-header h1 {
+    font-size: 1.875rem;
+    font-weight: bold;
+    color: #1f2937;
+    margin: 0 0 8px 0;
+}
+
+.admin-header p {
+    color: #4b5563;
+    margin: 0;
+}
+
+.code-repository-box {
+    margin-bottom: 32px;
+    background-color: #1f2937;
+    border-radius: 8px;
+    padding: 24px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.box-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 16px;
+}
+
+.box-header svg {
+    margin-right: 8px;
+    color: white;
+}
+
+.box-header h2 {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: white;
+    margin: 0;
+}
+
+.snippets-container {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+
+.code-snippet {
+    background-color: #111827;
+    border-radius: 6px;
+    padding: 16px;
+}
+
+.snippet-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 8px;
+}
+
+.snippet-header h3 {
+    font-size: 1.125rem;
+    font-weight: 500;
+    color: white;
+    margin: 0;
+}
+
+.language-tag {
+    background-color: #3b82f6;
+    color: white;
+    font-size: 0.75rem;
+    font-weight: 500;
+    padding: 4px 8px;
+    border-radius: 4px;
+}
+
+.code-block {
+    background-color: #1f2937;
+    padding: 12px;
+    border-radius: 4px;
+    overflow-x: auto;
+    color: #d1d5db;
+    font-size: 0.875rem;
+    margin: 0;
+}
+
+.resources-box {
+    background-color: white;
+    border-radius: 8px;
+    padding: 24px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.resources-box h2 {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: #1f2937;
+    margin: 0 0 16px 0;
+}
+
+.resources-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 16px;
+}
+
+@media (min-width: 768px) {
+    .resources-grid {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+.resource-card {
+    border: 1px solid #e5e7eb;
+    border-radius: 6px;
+    overflow: hidden;
+}
+
+.resource-image {
+    width: 100%;
+    height: 192px;
+    object-fit: cover;
+    cursor: pointer; /* Add cursor pointer to indicate clickable */
+    transition: opacity 0.2s ease; /* Smooth transition for hover effect */
+}
+
+.resource-image:hover {
+    opacity: 0.9; /* Subtle hover effect */
+}
+
+.resource-info {
+    padding: 12px;
+}
+
+.resource-info h3 {
+    font-weight: 500;
+    color: #1f2937;
+    margin: 0 0 4px 0;
+}
+
+.resource-info p {
+    font-size: 0.875rem;
+    color: #4b5563;
+    margin: 0;
+}
+
+/* Image Modal Styles */
+.image-modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.85);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+}
+
+.image-modal-content {
+    position: relative;
+    max-width: 90%;
+    max-height: 90%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.modal-image {
+    max-width: 100%;
+    max-height: 80vh;
+    object-fit: contain;
+    border-radius: 4px;
+}
+
+.modal-caption {
+    margin-top: 16px;
+    color: white;
+    text-align: center;
+}
+
+.modal-caption h3 {
+    font-size: 1.25rem;
+    margin: 0 0 8px 0;
+}
+
+.modal-caption p {
+    font-size: 1rem;
+    margin: 0;
+    opacity: 0.8;
+}
+
+.modal-close-button {
+    position: absolute;
+    top: -40px;
+    right: 0;
+    background: none;
+    border: none;
+    color: white;
+    cursor: pointer;
+    padding: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.modal-close-button:hover {
+    opacity: 0.8;
+}
