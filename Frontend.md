@@ -1,5 +1,5 @@
 # 🚀 FRONTEND
-
+Frontend domain adresi :  
 ---
 
 ## **Azat Vepakulyyev - Frontend**
