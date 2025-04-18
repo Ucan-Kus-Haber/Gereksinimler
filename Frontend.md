@@ -4,13 +4,13 @@
 
 ## **Azat Vepakulyyev - Frontend**
 
-- [Haber Ekleme](Kodlar/Frontend/Azat%20Vepakulyyev/Haber%20Ekleme)
-- [Haber Güncelleme](/Kodlar/Frontend/Azat%20Vepakulyyev/Haber%20Güncelleme/)
+- [Haber Ekleme](./Kodlar/Frontend/Azat%20Vepakulyyev/Haber%20ekleme)
+- [Haber Güncelleme](./Kodlar/Frontend/Azat%20Vepakulyyev/Haber%20guncelleme/)
 - [Haber Silme](./Kodlar/Frontend/Azat%20Vepakulyyev/Haber%20Silme/)
 - [Haber İçeriğine Görsel ve Video Ekleme](./Kodlar/Frontend/Azat%20Vepakulyyev/Haber%20Icerigine%20Gorsel%20ve%20video%20ekleme/)
 - [Anasayfa’da Son Dakika Haberleri](./Kodlar/Frontend/Azat%20Vepakulyyev/Anasayfa’da%20Son%20Dakika%20Haberleri/)
 - [Kullanıcı Bilgileri Güvenliği](./Kodlar/Frontend/Azat%20Vepakulyyev/Kullanici%20bilgileri%20yonetimi)
-- [Veritabanı Yönetimi](./Kodlar/Frontend/Azat%20Vepakulyyev/Veritabani%20Yönetimi/)
+- [Veritabanı Yönetimi](./Kodlar/Frontend/Azat%20Vepakulyyev/Veritabani%20yonetimi/)
 - [Cloudflare Yönetimi](./Kodlar/Frontend/Azat%20Vepakulyyev/Cloudflare%20Yonetimi/)
 
 ---
