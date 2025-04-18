@@ -4,14 +4,14 @@
 
 ## **Azat Vepakulyyev - Frontend**
 
-- [Haber Ekleme](./Kodlar/Frontend/Azat%20Vepakulyyev/)
-- [Haber Güncelleme](Gereksinimler/Kodlar/Frontend/Azat%20Vepakulyyev/Haber%20Güncelleme/)
-- [Haber Silme](Gereksinimler/Kodlar/Frontend/Azat%20Vepakulyyev/Haber%20Silme/)
-- [Haber İçeriğine Görsel ve Video Ekleme](Gereksinimler/Kodlar/Frontend/Azat%20Vepakulyyev/Haber%20İçeriğine%20Görsel%20ve%20Video%20Ekleme/)
-- [Anasayfa’da Son Dakika Haberleri](Gereksinimler/Kodlar/Frontend/Azat%20Vepakulyyev/Anasayfa’da%20Son%20Dakika%20Haberleri/)
-- [Kullanıcı Bilgileri Güvenliği](Gereksinimler/Kodlar/Frontend/Azat%20Vepakulyyev/Kullanıcı%20Bilgileri%20Güvenliği/)
-- [Veritabanı Yönetimi](Gereksinimler/Kodlar/Frontend/Azat%20Vepakulyyev/Veritabanı%20Yönetimi/)
-- [Cloudflare Yönetimi](Gereksinimler/Kodlar/Frontend/Azat%20Vepakulyyev/Cloudflare%20Yönetimi/)
+- [Haber Ekleme](./Kodlar/Frontend/Azat%20Vepakulyyev/Haber%20Ekleme)
+- [Haber Güncelleme](/Kodlar/Frontend/Azat%20Vepakulyyev/Haber%20Güncelleme/)
+- [Haber Silme](./Kodlar/Frontend/Azat%20Vepakulyyev/Haber%20Silme/)
+- [Haber İçeriğine Görsel ve Video Ekleme](./Kodlar/Frontend/Azat%20Vepakulyyev/Haber%20Icerigine%20Gorsel%20ve%20video%20ekleme/)
+- [Anasayfa’da Son Dakika Haberleri](./Kodlar/Frontend/Azat%20Vepakulyyev/Anasayfa’da%20Son%20Dakika%20Haberleri/)
+- [Kullanıcı Bilgileri Güvenliği](./Kodlar/Frontend/Azat%20Vepakulyyev/Kullanici%20bilgileri%20yonetimi)
+- [Veritabanı Yönetimi](./Kodlar/Frontend/Azat%20Vepakulyyev/Veritabani%20Yönetimi/)
+- [Cloudflare Yönetimi](./Kodlar/Frontend/Azat%20Vepakulyyev/Cloudflare%20Yonetimi/)
 
 ---
 
