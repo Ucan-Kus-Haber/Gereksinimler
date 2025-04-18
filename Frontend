@@ -1,33 +1,53 @@
-# GEREKSİNİMLER
+GEREKSİNİMLER (Düzenlenmiş)
+Haber Ekleme (Azat Vepakulyyev)
 
-1. [Haber Ekleme (Azat Vepakulyyev)](Gereksinimler/Kodlar/Frontend/Azat%20Vepakulyyev/)  
-2. [Haber Güncelleme (Azat Vepakulyyev)](Gereksinimler/Kodlar/Frontend/Azat%20Vepakulyyev/Haber%20Güncelleme.md)  
-3. [Haber Silme (Azat Vepakulyyev)](Gereksinimler/Kodlar/Frontend/Azat%20Vepakulyyev/Haber%20Silme.md)  
-4. [Haber İçeriğine Görsel ve Video Ekleme (Azat Vepakulyyev)](Gereksinimler/Kodlar/Frontend/Azat%20Vepakulyyev/Haber%20İçeriğine%20Görsel%20ve%20Video%20Ekleme.md)  
-5. [Anasayfa’da Son Dakika Haberleri (Azat Vepakulyyev)](Gereksinimler/Kodlar/Frontend/Azat%20Vepakulyyev/Anasayfa’da%20Son%20Dakika%20Haberleri.md)  
-6. [Kullanici Bilgileri Guvenligi (Azat Vepakulyyev)](Gereksinimler/Kodlar/Frontend/Azat%20Vepakulyyev/Kullanici%20Bilgileri%20Guvenligi.md)  
-7. [Veritabani Yonetimi (Azat Vepakulyyev)](Gereksinimler/Kodlar/Frontend/Azat%20Vepakulyyev/Veritabani%20Yonetimi.md)  
-8. [Cloudflare Yonetimi (Azat Vepakulyyev)](Gereksinimler/Kodlar/Frontend/Azat%20Vepakulyyev/Cloudflare%20Yonetimi.md)  
+Haber Güncelleme (Azat Vepakulyyev)
 
-9. [Kullanıcı Kaydı (Muhittin Dayan)](Gereksinimler/Kodlar/Frontend/Muhittin%20Dayan/Kullanıcı%20Kaydı.md)  
-10. [Kullanıcı Girişi (Muhittin Dayan)](Gereksinimler/Kodlar/Frontend/Muhittin%20Dayan/Kullanıcı%20Girişi.md)  
-11. [Şifremi Unuttum (Muhittin Dayan)](Gereksinimler/Kodlar/Frontend/Muhittin%20Dayan/Şifremi%20Unuttum.md)  
-12. [Profil Sayfası (Muhittin Dayan)](Gereksinimler/Kodlar/Frontend/Muhittin%20Dayan/Profil%20Sayfası.md)  
-13. [Haber Kaydetme ve Okuma Geçmişi (Muhittin Dayan)](Gereksinimler/Kodlar/Frontend/Muhittin%20Dayan/Haber%20Kaydetme%20ve%20Okuma%20Geçmişi.md)  
-14. [Bildirim Sistemi (Anlık Haber Bildirimleri) (Muhittin Dayan)](Gereksinimler/Kodlar/Frontend/Muhittin%20Dayan/Bildirim%20Sistemi%20(Anlık%20Haber%20Bildirimleri).md)  
+Haber Silme (Azat Vepakulyyev)
 
-15. [Yorum Yapma (Muhammed Ecer)](Gereksinimler/Kodlar/Frontend/Muhammed%20Ecer/Yorum%20Yapma.md)  
-16. [Şikayet Etme (Muhammed Ecer)](Gereksinimler/Kodlar/Frontend/Muhammed%20Ecer/Şikayet%20Etme.md)  
-17. [Haberleri Beğenme (Like/Dislike) (Muhammed Ecer)](Gereksinimler/Kodlar/Frontend/Muhammed%20Ecer/Haberleri%20Beğenme%20(Like-Dislike).md)  
-18. [Haberleri Favorilere Ekleme (Muhammed Ecer)](Gereksinimler/Kodlar/Frontend/Muhammed%20Ecer/Haberleri%20Favorilere%20Ekleme.md)  
-19. [Dil Seçenekleri (Muhammed Ecer)](Gereksinimler/Kodlar/Frontend/Muhammed%20Ecer/Dil%20Seçenekleri.md)  
-20. [En Çok Okunan Haberler Listesi (Muhammed Ecer)](Gereksinimler/Kodlar/Frontend/Muhammed%20Ecer/En%20Çok%20Okunan%20Haberler%20Listesi.md)  
+Haber İçeriğine Görsel ve Video Ekleme (Azat Vepakulyyev)
 
-21. [Admin Paneli (Kullanıcı ve Haber Yönetimi) (Emre Can Reyhan)](Gereksinimler/Kodlar/Frontend/Emre%20Can%20Reyhan/Admin%20Paneli%20(Kullanıcı%20ve%20Haber%20Yönetimi).md)  
-22. [Arama Çubuğu (Emre Can Reyhan)](Gereksinimler/Kodlar/Frontend/Emre%20Can%20Reyhan/Arama%20Çubuğu.md)  
-23. [Reklam Ekleme (Emre Can Reyhan)](Gereksinimler/Kodlar/Frontend/Emre%20Can%20Reyhan/Reklam%20Ekleme.md)  
-24. [Reklam Çıkarma (Emre Can Reyhan)](Gereksinimler/Kodlar/Frontend/Emre%20Can%20Reyhan/Reklam%20Çıkarma.md)  
-25. [Reklam Güncelleme (Emre Can Reyhan)](Gereksinimler/Kodlar/Frontend/Emre%20Can%20Reyhan/Reklam%20Güncelleme.md)  
-26. [Kategoriye Göre Haber Görüntüleme (Emre Can Reyhan)](Gereksinimler/Kodlar/Frontend/Emre%20Can%20Reyhan/Kategoriye%20Göre%20Haber%20Görüntüleme.md)  
+Anasayfa’da Son Dakika Haberleri (Azat Vepakulyyev)
 
+Kullanici Bilgileri Guvenligi (Azat Vepakulyyev)
+
+Veritabani Yonetimi (Azat Vepakulyyev)
+
+Cloudflare Yonetimi (Azat Vepakulyyev)
+
+Kullanıcı Kaydı (Muhittin Dayan)
+
+Kullanıcı Girişi (Muhittin Dayan)
+
+Şifremi Unuttum (Muhittin Dayan)
+
+Profil Sayfası (Muhittin Dayan)
+
+Haber Kaydetme ve Okuma Geçmişi (Muhittin Dayan)
+
+Bildirim Sistemi (Anlık Haber Bildirimleri) (Muhittin Dayan)
+
+Yorum Yapma (Muhammed Ecer)
+
+Şikayet Etme (Muhammed Ecer)
+
+Haberleri Beğenme (Like/Dislike) (Muhammed Ecer)
+
+Haberleri Favorilere Ekleme (Muhammed Ecer)
+
+Dil Seçenekleri (Muhammed Ecer)
+
+En Çok Okunan Haberler Listesi (Muhammed Ecer)
+
+Admin Paneli (Kullanıcı ve Haber Yönetimi) (Emre Can Reyhan)
+
+Arama Çubuğu (Emre Can Reyhan)
+
+Reklam Ekleme (Emre Can Reyhan)
+
+Reklam Çıkarma (Emre Can Reyhan)
+
+Reklam Güncelleme (Emre Can Reyhan)
+
+Kategoriye Göre Haber Görüntüleme (Emre Can Reyhan)
 
