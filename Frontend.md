@@ -4,7 +4,7 @@
 
 ## **Azat Vepakulyyev - Frontend**
 
-- [Haber Ekleme](./Kodlar/Frontend/Azat%20Vepakulyyev/Haber%20Ekleme)
+- [Haber Ekleme](Kodlar/Frontend/Azat%20Vepakulyyev/Haber%20Ekleme)
 - [Haber Güncelleme](/Kodlar/Frontend/Azat%20Vepakulyyev/Haber%20Güncelleme/)
 - [Haber Silme](./Kodlar/Frontend/Azat%20Vepakulyyev/Haber%20Silme/)
 - [Haber İçeriğine Görsel ve Video Ekleme](./Kodlar/Frontend/Azat%20Vepakulyyev/Haber%20Icerigine%20Gorsel%20ve%20video%20ekleme/)
