@@ -1,4 +1,4 @@
-# 🚀 GEREKSİNİMLER
+# 🚀 FRONTEND
 
 ---
 
