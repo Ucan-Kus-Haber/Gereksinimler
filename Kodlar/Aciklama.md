@@ -1,4 +1,4 @@
-Tüm frontend kodları, "Upload via GitHub" yöntemiyle tek seferde yüklenmiştir. Şu anda MongoDB veritabanı yerel ortamda çalışmaktadır. Bu nedenle veritabanında henüz veri bulunmadığından bazı bileşenler düzgün şekilde çalışmamaktadır. Bu bileşenlerin sorunsuz çalışabilmesi için gerekli verilerin admin paneli üzerinden sisteme eklenmesi gerekmektedir.
+Tüm frontend ve backend  kodları, "Upload via GitHub" yöntemiyle tek seferde yüklenmiştir.
 
 
 🚀 Genel Bilgiler
