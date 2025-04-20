@@ -1,8 +1,8 @@
 Tüm frontend ve backend  kodları, "Upload via GitHub" yöntemiyle tek seferde yüklenmiştir.
 
 NOT!!   Ilk girdiginizde Cloudflareden resmler gorseller yada video(yuklediyseniz videolar) gostermeye bilir .
-Bu yuzden defauld image geriye donduruluyor .
-bunu onlemek icin lutfen sayfayi tekrar yenileyiniz !!!!  
+Bu yuzden default image geriye donduruluyor .
+Bunu onlemek icin lutfen sayfayi tekrar yenileyiniz !!!!  
 
 🚀 Genel Bilgiler
 Frontend geliştirme tamamlanmıştır.
