@@ -46,4 +46,7 @@ Linkler
 - [Muhammed Ecer Durum Senaryosu](Durum-Senaryolari/MuhammedEcer-DurumSenaryosu.pdf)
 - [Emre Can Reyhan Durum Senaryosu](Durum-Senaryolari/EmreCanReyhan-DurumSenaryosu.pdf)
 
+  5. Odev Frontend
+-Frontend ile ilgili butun detaylar [Frontend](Frontend.md) dosyasinda belirtilmistir 
+
 
