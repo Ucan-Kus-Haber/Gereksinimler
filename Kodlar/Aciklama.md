@@ -29,3 +29,5 @@ Kullanıcı girişi işlemleri
 Frontend Uygulaması: [frontend](https://frontend2.azatvepakulyyev.workers.dev/)
 
 Backend API: [backend](https://deploy-backend2-jcl1.onrender.com)
+
+Docker image name : azatik/deploy-backend2
