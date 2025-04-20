@@ -1,5 +1,5 @@
 # 🚀 FRONTEND
-Frontend domain adresi :  
+Frontend domain adresi : [Link](https://frontend2.azatvepakulyyev.workers.dev/)
 Frontend ve Backend icin kucuk bir aciklama :[Aciklama linki](./Kodlar/Aciklama.md)
 ---
 
