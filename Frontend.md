@@ -1,5 +1,6 @@
 # 🚀 FRONTEND
 Frontend domain adresi :  
+Frontend ve Backend icin kucuk bir aciklama :[Aciklama linki](./Kodlar/Aciklama.md)
 ---
 
 ## **Azat Vepakulyyev - Frontend**
