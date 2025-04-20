@@ -41,7 +41,7 @@ Frontend ve Backend icin kucuk bir aciklama :[Aciklama linki](./Kodlar/Aciklama.
 
 ## **Emre Can Reyhan - Frontend**
 
-- [Admin Paneli (Kullanıcı ve Haber Yönetimi)](./Kodlar/Frontend/Emre%Can%Reyhan/Admin%Paneli)
+- [Admin Paneli (Kullanıcı ve Haber Yönetimi)](/Kodlar/Frontend/Emre%20Can%20Reyhan/Admin%20Paneli)
 - [Arama Çubuğu](Gereksinimler/Kodlar/Frontend/Emre%20Can%20Reyhan/Arama%20Çubuğu/)
 - [Reklam Ekleme](Gereksinimler/Kodlar/Frontend/Emre%20Can%20Reyhan/Reklam%20Ekleme/)
 - [Reklam Çıkarma](Gereksinimler/Kodlar/Frontend/Emre%20Can%20Reyhan/Reklam%20Çıkarma/)
