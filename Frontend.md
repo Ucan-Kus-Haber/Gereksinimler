@@ -30,12 +30,12 @@ Frontend ve Backend icin kucuk bir aciklama :[Aciklama linki](./Kodlar/Aciklama.
 
 ## **Muhammed Ecer - Frontend**
 
-- [Yorum Yapma](Gereksinimler/Kodlar/Frontend/Muhammed%20Ecer/Yorum%20Yapma/)
-- [Şikayet Etme](Gereksinimler/Kodlar/Frontend/Muhammed%20Ecer/Şikayet%20Etme/)
-- [Haberleri Beğenme (Like/Dislike)](Gereksinimler/Kodlar/Frontend/Muhammed%20Ecer/Haberleri%20Beğenme/)
-- [Haberleri Favorilere Ekleme](Gereksinimler/Kodlar/Frontend/Muhammed%20Ecer/Haberleri%20Favorilere%20Ekleme/)
-- [Dil Seçenekleri](Gereksinimler/Kodlar/Frontend/Muhammed%20Ecer/Dil%20Seçenekleri/)
-- [En Çok Okunan Haberler Listesi](Gereksinimler/Kodlar/Frontend/Muhammed%20Ecer/En%20Çok%20Okunan%20Haberler%20Listesi/)
+- [Yorum Yapma](/Kodlar/Frontend/Muhammed%20Ecer/Yorum%20Yapma)
+- [Şikayet Etme](/Kodlar/Frontend/Muhammed%20Ecer/Şikayet%20Etme)
+- [Haberleri Beğenme (Like/Dislike)](/Kodlar/Frontend/Muhammed%20Ecer/Haberleri%20Beğenme)
+- [Haberleri Favorilere Ekleme](/Kodlar/Frontend/Muhammed%20Ecer/Haberleri%20Favorilere%20Ekleme)
+- [Dil Seçenekleri](/Kodlar/Frontend/Muhammed%20Ecer/Dil%20Seçenekleri)
+- [En Çok Okunan Haberler Listesi](/Kodlar/Frontend/Muhammed%20Ecer/En%20Çok%20Okunan%20Haberler%20Listesi)
 
 ---
 
