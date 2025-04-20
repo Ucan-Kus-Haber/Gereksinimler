@@ -26,6 +26,6 @@ Reklam ekleme, silme, güncelleme
 Kullanıcı girişi işlemleri
 
 🌐 Proje URL’leri
-Frontend Uygulaması: [https://frontend-örnek-url.pages.dev](https://frontend2.azatvepakulyyev.workers.dev/)
+Frontend Uygulaması: [frontend](https://frontend2.azatvepakulyyev.workers.dev/)
 
-Backend API: [https://deploy-backend2-jcl1.onrender.com](https://deploy-backend2-jcl1.onrender.com)
+Backend API: [backend](https://deploy-backend2-jcl1.onrender.com)
