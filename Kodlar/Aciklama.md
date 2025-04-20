@@ -1,33 +1,37 @@
-Tüm frontend ve backend  kodları, "Upload via GitHub" yöntemiyle tek seferde yüklenmiştir.
+# 🌐 Proje Hakkında
 
-NOT!!   Ilk girdiginizde Cloudflareden resmler gorseller yada video(yuklediyseniz videolar) gostermeye bilir .
-Bu yuzden default image geriye donduruluyor .
-Bunu onlemek icin lutfen sayfayi tekrar yenileyiniz !!!!  
+Bu proje, modern bir frontend ve backend yapısı ile oluşturulmuş tam yığın (full-stack) bir web uygulamasıdır.
 
-🚀 Genel Bilgiler
-Frontend geliştirme tamamlanmıştır.
+## 🚀 Genel Bilgiler
 
-Vite tabanlı bir proje oluşturularak Cloudflare Workers ve Pages servisine başarıyla dağıtılmıştır.
+- **Frontend** geliştirmesi tamamlanmıştır.
+- Vite tabanlı bir proje oluşturulmuş ve **Cloudflare Workers & Pages** servisine başarıyla dağıtılmıştır.
+- **Backend**, Java **Spring Boot** kullanılarak geliştirilmektedir. Şu an temel işlevler aktiftir.
+- Veritabanı olarak **MongoDB Atlas** kullanılmaktadır, veriler bulutta saklanmaktadır.
+- Projede kullanılan resim ve görseller **Cloudflare R2** üzerinde barındırılmaktadır.
+- **Backend Dockerize edilmiştir** ve **Render** platformuna yüklenmiştir.
 
-Veritabanı olarak MongoDB Atlas kullanılmaktadır. Tüm veriler bulutta saklanmaktadır.
+## ⚠️ Uyarı
 
-Projede kullanılan resim ve görseller Cloudflare R2 üzerinde barındırılmaktadır.
+İlk girişte Cloudflare kaynaklı olarak resimler, görseller veya videolar (yüklediyseniz) görüntülenmeyebilir.  
+Bu nedenle **default image** geriye döndürülmektedir.  
+Sorunu çözmek için **sayfayı lütfen yenileyiniz!**
 
-Backend tarafında Spring Boot kullanılmaktadır.
+## 🔧 Backend Mevcut İşlevler
 
-Backend hâlen geliştirilmektedir, yalnızca temel işlevler şu anda aktif durumdadır.
+- 📰 Haber ekleme, silme, güncelleme  
+- 📢 Reklam ekleme, silme, güncelleme  
+- 🔐 Kullanıcı girişi işlemleri
 
-Dinamik çalışan backend modülleri:
+## 🌍 Proje Bağlantıları
 
-Haber ekleme, silme, güncelleme
+- **Frontend Uygulaması:** [frontend](https://frontend2.azatvepakulyyev.workers.dev/)
+- **Backend API:** [backend](https://deploy-backend2-jcl1.onrender.com)
 
-Reklam ekleme, silme, güncelleme
+## 🐳 Docker Bilgisi
 
-Kullanıcı girişi işlemleri
+- **Docker Image Adı:** `azatik/deploy-backend2`  
+- Backend uygulaması **Dockerize edilmiştir** ve **Render** üzerinden dağıtımı yapılmıştır.
 
-🌐 Proje URL’leri
-Frontend Uygulaması: [frontend](https://frontend2.azatvepakulyyev.workers.dev/)
+---
 
-Backend API: [backend](https://deploy-backend2-jcl1.onrender.com)
-
-Docker image name : azatik/deploy-backend2
