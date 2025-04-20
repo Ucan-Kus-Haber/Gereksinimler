@@ -13,8 +13,9 @@ Bu proje, modern bir frontend ve backend yapısı ile oluşturulmuş tam yığı
 
 ## ⚠️ Uyarı
 
-İlk girişte Cloudflare kaynaklı olarak resimler, görseller veya videolar (yüklediyseniz) görüntülenmeyebilir.  
-Bu nedenle **default image** geriye döndürülmektedir.  
+İlk girişte render kaynakli olarak backend calismayabilir , Cloudflare kaynaklı olarak resimler, 
+görseller veya videolar (yüklediyseniz) görüntülenmeyebilir.  
+Bu nedenle **default image** geriye döndürülmektedir 
 Sorunu çözmek için **sayfayı lütfen yenileyiniz!**
 
 ## 🔧 Backend Mevcut İşlevler
