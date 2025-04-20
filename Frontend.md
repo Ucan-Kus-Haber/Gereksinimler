@@ -19,12 +19,12 @@ Frontend ve Backend icin kucuk bir aciklama :[Aciklama linki](./Kodlar/Aciklama.
 
 ## **Muhittin Dayan - Frontend**
 
-- [Kullanıcı Kaydı](Gereksinimler/Kodlar/Frontend/Muhittin%20Dayan/Kullanıcı%20Kaydı/)
-- [Kullanıcı Girişi](Gereksinimler/Kodlar/Frontend/Muhittin%20Dayan/Kullanıcı%20Girişi/)
-- [Şifremi Unuttum](Gereksinimler/Kodlar/Frontend/Muhittin%20Dayan/Şifremi%20Unuttum/)
-- [Profil Sayfası](Gereksinimler/Kodlar/Frontend/Muhittin%20Dayan/Profil%20Sayfası/)
-- [Haber Kaydetme ve Okuma Geçmişi](Gereksinimler/Kodlar/Frontend/Muhittin%20Dayan/Haber%20Kaydetme%20ve%20Okuma%20Geçmişi/)
-- [Bildirim Sistemi (Anlık Haber Bildirimleri)](Gereksinimler/Kodlar/Frontend/Muhittin%20Dayan/Bildirim%20Sistemi/)
+- [Kullanıcı Kaydı](/Kodlar/Frontend/Muhittin%20Dayan/Kullanıcı%20Kaydı)
+- [Kullanıcı Girişi](/Kodlar/Frontend/Muhittin%20Dayan/Kullanıcı%20Girişi)
+- [Şifremi Unuttum](/Kodlar/Frontend/Muhittin%20Dayan/Şifremi%20Unuttum)
+- [Profil Sayfası](/Kodlar/Frontend/Muhittin%20Dayan/Profil%20Sayfası)
+- [Haber Kaydetme ve Okuma Geçmişi](/Kodlar/Frontend/Muhittin%20Dayan/Haber%20Kaydetme%20ve%20Okuma%20Geçmişi)
+- [Bildirim Sistemi (Anlık Haber Bildirimleri)](/Kodlar/Frontend/Muhittin%20Dayan/Bildirim%20Sistemi%20(Anlık%20Haber%20Bildirimleri))
 
 ---
 
