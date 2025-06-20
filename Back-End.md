@@ -10,6 +10,10 @@
 
 
 
+
+
+
+
 ## Azat Vepakulyyev Gereksinimleri
 1. **Haber Ekleme**
 2. **Haber Güncelleme**
