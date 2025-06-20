@@ -8,7 +8,6 @@
 - **RabbitMQ:** Kullanıldı
 - **CI/CD:** Kullanıldı
 
-## Detaylı Gereksinimler ve Sorumlular
 
 
 ## Azat Vepakulyyev Gereksinimleri
@@ -22,7 +21,7 @@
 8. **Cloudflare Yönetimi**
 
 
-### Muhittin Dayan Gereksinimleri
+## Muhittin Dayan Gereksinimleri
 9. **Kullanıcı Kaydı**
 10. **Kullanıcı Girişi**
 11. **Şifremi Unuttum**
@@ -31,7 +30,7 @@
 14. **Bildirim Sistemi (Anlık Haber Bildirimleri)**
 
 
-### Muhammed Ecer Gereksinimleri
+## Muhammed Ecer Gereksinimleri
 15. **Yorum Yapma**
 16. **Şikayet Etme**
 17. **Haberleri Beğenme (Like/Dislike)**
@@ -40,7 +39,7 @@
 20. **En Çok Okunan Haberler Listesi**
 
 
-### Emre Can Reyhan Gereksinimleri
+## Emre Can Reyhan Gereksinimleri
 21. **Admin Paneli (Kullanıcı ve Haber Yönetimi)**
 22. **Arama Çubuğu**
 23. **Reklam Ekleme**
