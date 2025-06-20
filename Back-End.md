@@ -8,12 +8,6 @@
 - **RabbitMQ:** Kullanıldı
 - **CI/CD:** Kullanıldı
 
-
-
-
-
-
-
 ## Azat Vepakulyyev Gereksinimleri
 1. **Haber Ekleme**
 2. **Haber Güncelleme**
