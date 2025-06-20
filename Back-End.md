@@ -2,13 +2,14 @@
 
 ## Proje Bilgileri
 - **Domain Adresi:** domainadresi.com
-- **Docker:** Kullanıldı/Kullanılmadı
-- **REST API:** Kullanıldı/Kullanılmadı
-- **Redis:** Kullanıldı/Kullanılmadı
-- **RabbitMQ:** Kullanıldı/Kullanılmadı
-- **CI/CD:** Kullanıldı/Kullanılmadı
+- **Docker:** Kullanıldı
+- **REST API:** Kullanıldı
+- **Redis:** Kullanıldı
+- **RabbitMQ:** Kullanıldı
+- **CI/CD:** Kullanıldı
 
 ## Detaylı Gereksinimler ve Sorumlular
+
 
 ### Azat Vepakulyyev Gereksinimleri
 1. **Haber Ekleme**
