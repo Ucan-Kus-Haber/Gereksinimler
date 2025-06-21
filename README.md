@@ -48,11 +48,11 @@ Linkler
 - [Emre Can Reyhan Durum Senaryosu](Durum-Senaryolari/EmreCanReyhan-DurumSenaryosu.pdf)
 
 
- 5. Odev Frontend olusturma    
+ 5. Odev Frontend     
 - Frontend ile ilgili butun detaylar [Frontend](Frontend.md) dosyasinda belirtilmistir
 
 
- 6.
+ 6.Odev Backend 
 - Backend Render Serverine yuklenmistir detaylar [Backend](Back-End.md) dosyasinda belirtilmistir
 
 
