@@ -19,7 +19,7 @@ public class NewsArticleService {
 
     private final NewsArticleRepository newsArticleRepository;
     private final NewsStorageService newsStorageService;
-    private final String baseUrl = "https://pub-cab830fe342c4f9480be11e8b3347409.r2.dev/";
+    private final String baseUrl = "";
     private final String bucketName = "my-data";
 
     @Autowired
