@@ -1,0 +1,488 @@
+/* NewsDetail.css */
+
+.nd-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+}
+
+/* Loading and Error States */
+.nd-loading {
+    text-align: center;
+    padding: 40px;
+    font-size: 18px;
+    color: #666;
+}
+
+.nd-error {
+    text-align: center;
+    padding: 40px;
+    background: #f8f9fa;
+    border-radius: 8px;
+    border: 1px solid #dee2e6;
+}
+
+.nd-error h2 {
+    color: #dc3545;
+    margin-bottom: 16px;
+}
+
+/* Article Styles */
+.nd-article {
+    background: white;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.1);
+    margin-bottom: 40px;
+}
+
+.nd-article-header {
+    padding: 30px;
+    border-bottom: 1px solid #eee;
+}
+
+.nd-article-meta {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    margin-bottom: 16px;
+    font-size: 14px;
+    color: #666;
+}
+
+.nd-article-category {
+    background: #007bff;
+    color: white;
+    padding: 4px 12px;
+    border-radius: 20px;
+    font-weight: 500;
+    text-transform: uppercase;
+    font-size: 12px;
+}
+
+.nd-article-date,
+.nd-article-views {
+    color: #666;
+}
+
+.nd-article-title {
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin: 0 0 16px 0;
+    line-height: 1.3;
+}
+
+.nd-article-summary {
+    font-size: 1.2rem;
+    color: #666;
+    margin: 0 0 16px 0;
+    line-height: 1.5;
+}
+
+.nd-article-byline {
+    display: flex;
+    gap: 20px;
+    font-size: 14px;
+    color: #666;
+}
+
+.nd-article-byline span {
+    font-weight: 500;
+}
+
+/* Article Image */
+.nd-article-image-container {
+    width: 100%;
+    max-height: 400px;
+    overflow: hidden;
+}
+
+.nd-article-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+
+/* Article Content */
+.nd-article-content {
+    padding: 30px;
+    font-size: 16px;
+    line-height: 1.8;
+}
+
+.nd-article-content h2,
+.nd-article-content h3,
+.nd-article-content h4 {
+    margin: 24px 0 16px 0;
+    color: #333;
+}
+
+.nd-article-content p {
+    margin: 0 0 16px 0;
+}
+
+.nd-article-content img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin: 16px 0;
+}
+
+/* Article Tags */
+.nd-article-tags {
+    padding: 0 30px 20px 30px;
+    border-bottom: 1px solid #eee;
+}
+
+.nd-article-tag {
+    display: inline-block;
+    background: #f8f9fa;
+    color: #495057;
+    padding: 4px 8px;
+    margin: 0 8px 8px 0;
+    border-radius: 4px;
+    font-size: 14px;
+    text-decoration: none;
+    border: 1px solid #dee2e6;
+}
+
+.nd-article-tag:hover {
+    background: #e9ecef;
+}
+
+/* Article Video */
+.nd-article-video {
+    padding: 0 30px 20px 30px;
+}
+
+.nd-article-video video {
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Article Actions */
+.nd-article-actions {
+    padding: 20px 30px;
+    border-top: 1px solid #eee;
+    display: flex;
+    gap: 12px;
+}
+
+.nd-action-btn {
+    padding: 10px 20px;
+    border: 1px solid #dee2e6;
+    background: white;
+    color: #495057;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 500;
+    transition: all 0.2s ease;
+}
+
+.nd-action-btn:hover {
+    background: #f8f9fa;
+    border-color: #adb5bd;
+}
+
+/* Comments Section */
+.nd-comments-section {
+    background: white;
+    border-radius: 12px;
+    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+}
+
+.nd-comments-header {
+    padding: 30px;
+    border-bottom: 1px solid #eee;
+    background: #f8f9fa;
+}
+
+.nd-comments-header h3 {
+    margin: 0;
+    font-size: 1.5rem;
+    color: #333;
+}
+
+/* Comment Form */
+.nd-comment-form {
+    padding: 30px;
+    border-bottom: 1px solid #eee;
+}
+
+.nd-comment-form h4 {
+    margin: 0 0 20px 0;
+    color: #333;
+}
+
+.nd-form-row {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+    margin-bottom: 16px;
+}
+
+.nd-comment-form input,
+.nd-comment-form textarea {
+    width: 100%;
+    padding: 12px 16px;
+    border: 1px solid #dee2e6;
+    border-radius: 6px;
+    font-size: 14px;
+    font-family: inherit;
+    transition: border-color 0.2s ease;
+}
+
+.nd-comment-form input:focus,
+.nd-comment-form textarea:focus {
+    outline: none;
+    border-color: #007bff;
+    box-shadow: 0 0 0 3px rgba(0, 123, 255, 0.1);
+}
+
+.nd-comment-form textarea {
+    resize: vertical;
+    min-height: 120px;
+}
+
+.nd-submit-message {
+    padding: 12px 16px;
+    border-radius: 6px;
+    margin-bottom: 16px;
+    font-weight: 500;
+}
+
+.nd-submit-message.success {
+    background: #d4edda;
+    color: #155724;
+    border: 1px solid #c3e6cb;
+}
+
+.nd-submit-message.error {
+    background: #f8d7da;
+    color: #721c24;
+    border: 1px solid #f5c6cb;
+}
+
+.nd-form-note {
+    font-size: 12px;
+    color: #666;
+    margin: 16px 0 0 0;
+}
+
+/* Buttons */
+.nd-btn {
+    padding: 12px 24px;
+    border: none;
+    border-radius: 6px;
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    text-decoration: none;
+    display: inline-block;
+    text-align: center;
+}
+
+.nd-btn:disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+}
+
+.nd-btn-primary {
+    background: #007bff;
+    color: white;
+}
+
+.nd-btn-primary:hover:not(:disabled) {
+    background: #0056b3;
+}
+
+.nd-btn-secondary {
+    background: #6c757d;
+    color: white;
+}
+
+.nd-btn-secondary:hover:not(:disabled) {
+    background: #545b62;
+}
+
+.nd-load-more {
+    width: 100%;
+    margin: 20px 0;
+}
+
+/* Comments List */
+.nd-comments-list {
+    padding: 30px;
+}
+
+.nd-no-comments {
+    text-align: center;
+    padding: 40px;
+    color: #666;
+}
+
+/* Individual Comment */
+.nd-comment {
+    background: #f8f9fa;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+    border: 1px solid #dee2e6;
+}
+
+.nd-comment-reply {
+    margin-left: 40px;
+    margin-top: 16px;
+    background: white;
+}
+
+.nd-comment-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 12px;
+}
+
+.nd-comment-author {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.nd-comment-author strong {
+    color: #333;
+    font-weight: 600;
+}
+
+.nd-comment-date {
+    color: #666;
+    font-size: 12px;
+}
+
+.nd-comment-actions {
+    display: flex;
+    gap: 8px;
+}
+
+.nd-comment-like-btn,
+.nd-comment-reply-btn {
+    padding: 6px 12px;
+    border: 1px solid #dee2e6;
+    background: white;
+    color: #495057;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 12px;
+    transition: all 0.2s ease;
+}
+
+.nd-comment-like-btn:hover,
+.nd-comment-reply-btn:hover {
+    background: #e9ecef;
+}
+
+.nd-comment-content {
+    color: #333;
+    line-height: 1.6;
+}
+
+/* Comment Replies */
+.nd-comment-replies {
+    margin-top: 16px;
+    border-left: 3px solid #007bff;
+    padding-left: 16px;
+}
+
+/* Reply Form */
+.nd-reply-form {
+    margin-top: 16px;
+    padding: 16px;
+    background: white;
+    border-radius: 6px;
+    border: 1px solid #dee2e6;
+}
+
+.nd-reply-form .nd-form-row {
+    margin-bottom: 12px;
+}
+
+.nd-reply-form input,
+.nd-reply-form textarea {
+    padding: 8px 12px;
+    font-size: 13px;
+}
+
+.nd-reply-form textarea {
+    min-height: 80px;
+}
+
+.nd-form-actions {
+    display: flex;
+    gap: 8px;
+    margin-top: 12px;
+}
+
+.nd-form-actions .nd-btn {
+    padding: 8px 16px;
+    font-size: 13px;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .nd-container {
+        padding: 10px;
+    }
+
+    .nd-article-header {
+        padding: 20px;
+    }
+
+    .nd-article-title {
+        font-size: 2rem;
+    }
+
+    .nd-article-content {
+        padding: 20px;
+    }
+
+    .nd-form-row {
+        grid-template-columns: 1fr;
+    }
+
+    .nd-comment-reply {
+        margin-left: 20px;
+    }
+
+    .nd-comment-header {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 8px;
+    }
+
+    .nd-article-meta {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 8px;
+    }
+}
+
+@media (max-width: 480px) {
+    .nd-article-title {
+        font-size: 1.5rem;
+    }
+
+    .nd-article-actions {
+        flex-direction: column;
+    }
+
+    .nd-comment-reply {
+        margin-left: 10px;
+    }
+}

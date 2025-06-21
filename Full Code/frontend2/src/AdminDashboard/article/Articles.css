@@ -1,0 +1,209 @@
+
+/* src/pages/Dashboard/Articles.css */
+.articles-page {
+    padding: 20px;
+}
+
+.page-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 25px;
+}
+
+.page-header h1 {
+    margin: 0;
+    color: #333;
+}
+
+.header-actions {
+    display: flex;
+    gap: 10px;
+}
+
+.primary-btn {
+    background-color: #4e54c8;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 16px;
+    font-size: 0.9rem;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.primary-btn:hover {
+    background-color: #3a3f99;
+}
+
+.secondary-btn {
+    background-color: white;
+    color: #4e54c8;
+    border: 1px solid #4e54c8;
+    border-radius: 4px;
+    padding: 10px 16px;
+    font-size: 0.9rem;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.secondary-btn:hover {
+    background-color: #f0f0ff;
+}
+
+.category-tabs {
+    display: flex;
+    gap: 5px;
+    margin-bottom: 20px;
+    overflow-x: auto;
+    padding-bottom: 5px;
+}
+
+.tab-btn {
+    background: none;
+    border: none;
+    padding: 8px 16px;
+    font-size: 0.9rem;
+    color: #666;
+    cursor: pointer;
+    border-radius: 20px;
+    white-space: nowrap;
+}
+
+.tab-btn.active {
+    background-color: #4e54c8;
+    color: white;
+}
+
+.tab-btn:not(.active):hover {
+    background-color: #f0f0f0;
+}
+
+.articles-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+    gap: 20px;
+}
+
+.article-card {
+    background-color: white;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+}
+
+.article-image {
+    position: relative;
+    height: 180px;
+    overflow: hidden;
+}
+
+.placeholder-image {
+    width: 100%;
+    height: 100%;
+    background-color: #f0f0f0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #999;
+    font-size: 1.2rem;
+}
+
+.article-status {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    padding: 3px 8px;
+    border-radius: 20px;
+    font-size: 0.8rem;
+    text-transform: capitalize;
+}
+
+.article-status.published {
+    background-color: #e3f7e8;
+    color: #2ecc71;
+}
+
+.article-status.draft {
+    background-color: #f5f5f5;
+    color: #777;
+}
+
+.article-content {
+    padding: 15px;
+    flex: 1;
+}
+
+.article-content h3 {
+    margin: 0 0 10px;
+    font-size: 1.1rem;
+}
+
+.article-excerpt {
+    margin: 0 0 15px;
+    color: #666;
+    font-size: 0.9rem;
+    line-height: 1.5;
+}
+
+.article-meta {
+    display: flex;
+    justify-content: space-between;
+    color: #999;
+    font-size: 0.8rem;
+}
+
+.article-actions {
+    display: flex;
+    border-top: 1px solid #eee;
+}
+
+.article-actions button {
+    flex: 1;
+    padding: 10px;
+    border: none;
+    background: none;
+    cursor: pointer;
+    font-size: 0.9rem;
+    transition: background-color 0.2s;
+}
+
+.article-actions .edit-btn {
+    color: #4e54c8;
+}
+
+.article-actions .view-btn {
+    color: #4285f4;
+}
+
+.article-actions .delete-btn {
+    color: #e74c3c;
+}
+
+.article-actions button:hover {
+    background-color: #f8f8f8;
+}
+
+/* Responsive styles */
+@media (max-width: 768px) {
+    .articles-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .page-header {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 15px;
+    }
+
+    .header-actions {
+        width: 100%;
+    }
+
+    .primary-btn, .secondary-btn {
+        flex: 1;
+        text-align: center;
+    }
+}

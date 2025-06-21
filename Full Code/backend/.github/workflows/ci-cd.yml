@@ -1,0 +1,25 @@
+name: Maven Spring Boot CI/CD
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Reposu klonla
+        uses: actions/checkout@v3
+
+      - name: JDK 17 kur
+        uses: actions/setup-java@v3
+        with:
+          java-version: '17'
+          distribution: 'temurin'
+
+      - name: Maven ile test ve build et
+        working-directory: ./backend
+        run: mvn clean install

@@ -1,0 +1,32 @@
+
+/* Fixed bottom ad */
+.fixed-bottom-ad {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000; /* Ensure it stays on top of other content */
+    margin: 0 auto;
+    max-width: 1152px; /* Same as original max-width */
+}
+
+/* Add some margin to the page content to prevent the ad from covering content */
+body {
+    margin-bottom: 106px; /* 96px height + 10px for spacing */
+}
+
+/* Add a retry button style */
+.retry-button {
+    background-color: #3b82f6;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 4px 8px;
+    font-size: 12px;
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+.retry-button:hover {
+    background-color: #2563eb;
+}
