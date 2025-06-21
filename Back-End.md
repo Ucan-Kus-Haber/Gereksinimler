@@ -3,14 +3,13 @@
 
 ## 🌐 Domain Adresi
 - domainadresi.com  
-🔗 https://domainadresi.com
+🔗[Domain ](https://frontend2.azatvepakulyyev.workers.dev/)
 
 ## 🐳 Docker
 - Docker konteyner yapısı kullanıldı.  
-[Docker video](https://youtu.be/qnuoy--71og)  
+🔗[Docker video](https://youtu.be/qnuoy--71og)  
 
-DOCKER IMAGE -->>  azatik/ucankus-backend
-
+DOCKER IMAGE -->>  azatik/ucankus-backend  
 
 ## 🌐 REST API
 - Spring Boot REST API kullanıldı.  
