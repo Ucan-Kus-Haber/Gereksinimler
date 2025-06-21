@@ -12,7 +12,7 @@ Spring Boot backend uygulamamız Render platformuna deploy edilmiştir. Ücretsi
 - Docker konteyner yapısı kullanıldı.  
 🔗[Docker video](https://youtu.be/qnuoy--71og)  
 
-DOCKER IMAGE -->>  azatik/ucankus-backend  
+DOCKER IMAGE -->>  azatik/ucankus-deploy2 
 
 ## 🌐 REST API
 - Spring Boot REST API kullanıldı.  
