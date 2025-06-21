@@ -53,7 +53,7 @@ Linkler
 
 
  6.
-- Backend Render Serverine yuklenmistir detaylar [Backend](Back-End.md} dosyasinda belirtilmistir
+- Backend Render Serverine yuklenmistir detaylar [Backend](Back-End.md) dosyasinda belirtilmistir
 
 
 
