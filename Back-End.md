@@ -4,6 +4,9 @@
 ## 🌐 Domain Adresi
 - domainadresi.com  
 🔗[Domain ](https://frontend2.azatvepakulyyev.workers.dev/)
+Not:
+Spring Boot backend uygulamamız Render platformuna deploy edilmiştir. Ücretsiz plan kullanıldığından dolayı, backend uzun süre kullanılmadığında uyku moduna geçmektedir. Bu nedenle siteye ilk giriş yaptığınızda lütfen yaklaşık 1 dakika kadar bekleyiniz. Anlayışınız için teşekkür ederiz.
+
 
 ## 🐳 Docker
 - Docker konteyner yapısı kullanıldı.  
