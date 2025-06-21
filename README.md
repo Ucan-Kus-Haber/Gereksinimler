@@ -49,6 +49,12 @@ Linkler
 
 
  5. Odev Frontend olusturma    
-- Frontend ile ilgili butun detaylar [Frontend](Frontend.md) dosyasinda belirtilmistir 
+- Frontend ile ilgili butun detaylar [Frontend](Frontend.md) dosyasinda belirtilmistir
+
+
+ 6.
+- Backend Render Serverine yuklenmistir detaylar [Backend](Back-End.md} dosyasinda belirtilmistir
+
+
 
 
