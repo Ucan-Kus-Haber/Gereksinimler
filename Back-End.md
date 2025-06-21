@@ -11,7 +11,7 @@
 
 ## 🌐 REST API
 - Spring Boot REST API kullanıldı.  
-🔗 https://domainadresi.com/api-docs
+[Azat Vepakulyyev](https://youtu.be/kn-2IgFntqM)
 
 ## 🧠 Redis
 - Oturum yönetimi ve önbellekleme için Redis kullanıldı.  
@@ -19,14 +19,15 @@
 
 ## 📩 RabbitMQ
 - Mikroservisler arası mesajlaşma için RabbitMQ kullanıldı.  
-🔗 [VideoLink](https://www.youtube.com/watch?v=niNkMgRhcHA)
+🔗 [RabbitMQ](https://youtu.be/niNkMgRhcHA)
 
 ## ⚙️ CI/CD
 - CI/CD süreçleri GitHub Actions ile otomatikleştirildi.  
-🔗 https://github.com/azatik/UcanKus/actions
+🔗 [CI/CD](https://youtu.be/J4QO9ceZRVU)
 
 
 ## Azat Vepakulyyev Gereksinimleri
+[Azat Vepakulyyev](https://youtu.be/kn-2IgFntqM)
 1. **Haber Ekleme**
 2. **Haber Güncelleme**
 3. **Haber Silme**
