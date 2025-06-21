@@ -1,12 +1,30 @@
 # Haber Sitesi Proje Gereksinimleri
+# 🚀 Proje Bilgileri: UçanKuş Backend
 
-## Proje Bilgileri
-- **Domain Adresi:** domainadresi.com
-- **Docker:** Kullanıldı
-- **REST API:** Kullanıldı
-- **Redis:** Kullanıldı
-- **RabbitMQ:** Kullanıldı
-- **CI/CD:** Kullanıldı
+## 🌐 Domain Adresi
+- domainadresi.com  
+🔗 https://domainadresi.com
+
+## 🐳 Docker
+- Docker konteyner yapısı kullanıldı.  
+🔗 https://hub.docker.com/r/azatik/demo-deployment
+
+## 🌐 REST API
+- Spring Boot REST API kullanıldı.  
+🔗 https://domainadresi.com/api-docs
+
+## 🧠 Redis
+- Oturum yönetimi ve önbellekleme için Redis kullanıldı.  
+🔗 https://redis.io
+
+## 📩 RabbitMQ
+- Mikroservisler arası mesajlaşma için RabbitMQ kullanıldı.  
+🔗 http://localhost:15672
+
+## ⚙️ CI/CD
+- CI/CD süreçleri GitHub Actions ile otomatikleştirildi.  
+🔗 https://github.com/azatik/UcanKus/actions
+
 
 ## Azat Vepakulyyev Gereksinimleri
 1. **Haber Ekleme**
