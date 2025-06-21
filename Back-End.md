@@ -7,7 +7,9 @@
 
 ## 🐳 Docker
 - Docker konteyner yapısı kullanıldı.  
-🔗 https://hub.docker.com/r/azatik/demo-deployment
+[Docker video](https://youtu.be/qnuoy--71og)
+DOCKER IMAGE -->>  azatik/ucankus-backend
+
 
 ## 🌐 REST API
 - Spring Boot REST API kullanıldı.  
@@ -15,15 +17,15 @@
 
 ## 🧠 Redis
 - Oturum yönetimi ve önbellekleme için Redis kullanıldı.  
-🔗[Redis](https://youtu.be/BjKDGLoI8fQ)
+🔗[Redis video ](https://youtu.be/BjKDGLoI8fQ)
 
 ## 📩 RabbitMQ
 - Mikroservisler arası mesajlaşma için RabbitMQ kullanıldı.  
-🔗 [RabbitMQ](https://youtu.be/niNkMgRhcHA)
+🔗 [RabbitMQ video ](https://youtu.be/niNkMgRhcHA)
 
 ## ⚙️ CI/CD
 - CI/CD süreçleri GitHub Actions ile otomatikleştirildi.  
-🔗 [CI/CD](https://youtu.be/J4QO9ceZRVU)
+🔗 [CI/CD video ](https://youtu.be/J4QO9ceZRVU)
 
 
 ## Azat Vepakulyyev Gereksinimleri
