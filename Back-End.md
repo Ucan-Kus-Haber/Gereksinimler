@@ -15,7 +15,7 @@
 
 ## 🧠 Redis
 - Oturum yönetimi ve önbellekleme için Redis kullanıldı.  
-🔗 https://redis.io
+🔗[Redis](https://youtu.be/BjKDGLoI8fQ)
 
 ## 📩 RabbitMQ
 - Mikroservisler arası mesajlaşma için RabbitMQ kullanıldı.  
