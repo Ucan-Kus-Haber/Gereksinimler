@@ -7,7 +7,7 @@
 
 ## 🐳 Docker
 - Docker konteyner yapısı kullanıldı.  
-[Docker video](https://youtu.be/qnuoy--71og)
+[Docker video](https://youtu.be/qnuoy--71og)  .
 DOCKER IMAGE -->>  azatik/ucankus-backend
 
 
