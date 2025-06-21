@@ -19,7 +19,7 @@
 
 ## 📩 RabbitMQ
 - Mikroservisler arası mesajlaşma için RabbitMQ kullanıldı.  
-🔗 http://localhost:15672
+🔗 [VideoLink](https://www.youtube.com/watch?v=niNkMgRhcHA)
 
 ## ⚙️ CI/CD
 - CI/CD süreçleri GitHub Actions ile otomatikleştirildi.  
