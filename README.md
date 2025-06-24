@@ -52,7 +52,7 @@ Linkler
 - Frontend ile ilgili butun detaylar [Frontend](Frontend.md) dosyasinda belirtilmistir
 
 
-  6.Odev Backend 
+ 6.Odev Backend 
  - Backend Render Serverine yuklenmistir detaylar [Backend](Back-End.md) dosyasinda belirtilmistir
 
 
