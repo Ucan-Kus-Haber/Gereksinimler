@@ -16,7 +16,7 @@ Proje Kategorisi: Haber Sitesi
 
 Referans Uygulama: Haberler.com
 
-Uygulama Adresi: ucankushaber.com
+Uygulama Adresi: [UcanKusHaber](https://frontend2.azatvepakulyyev.workers.dev/)
 
 Grup Adı: News Oracles
 
