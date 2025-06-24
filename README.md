@@ -49,7 +49,7 @@ Linkler
 
 
  5. Odev Frontend     
-- Frontend ile ilgili butun detaylar [Frontend](Frontend.md) dosyasinda belirtilmistir
+ - Frontend ile ilgili butun detaylar [Frontend](Frontend.md) dosyasinda belirtilmistir
 
 
  6.Odev Backend 
