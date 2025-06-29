@@ -2,7 +2,7 @@ Yorum Yapma: Kullanıcıların haber içerikleri üzerinde görüşlerini payla�
 
 Yorumlara Cevap Verme: Kullanıcıların, diğer kullanıcıların yaptığı yorumlara doğrudan cevap yazabilmesini sağlar. Bu özellik, platform üzerinde etkileşimi ve tartışma kültürünü geliştirir. Kullanıcılar, fikir alışverişinde bulunabilir, sorular sorabilir veya paylaşılan görüşlere katkıda bulunabilir. Cevaplama sistemi, yorumların altına hiyerarşik (iç içe) şekilde yerleştirilerek okunabilirliği artırır.
 
-Haberleri Beğenme (Like/Dislike): Kullanıcıların haber içeriklerine olumlu (beğenme) veya olumsuz (beğenmeme) tepki vermelerine olanak tanır. Bu özellik, haberlerin popülerliğini ölçmek ve kullanıcı tercihlerine göre içerik önerileri sunmak için kullanılabilir. Beğeni/Beğenmeme işlemleri genellikle bir ikon veya buton aracılığıyla gerçekleştirilir.
+Yorumları Beğenme (Like): Kullanıcıların platformdaki yorumlara olumlu (beğenme) veya olumsuz (beğenmeme) tepki vermelerine olanak tanır. Bu özellik, hangi yorumların daha fazla desteklendiğini veya karşı çıkıldığını belirlemek ve kullanıcı etkileşimini artırmak amacıyla kullanılır. Beğeni işlemleri genellikle bir ikon ( başparmak yukarı)  aracılığıyla gerçekleştirilir.
 
 Haberleri Favorilere Ekleme: Kullanıcıların ilgilerini çeken haberleri kaydedip daha sonra kolayca erişebilmelerini sağlar. Bu özellik, kişiselleştirilmiş bir deneyim sunar ve kullanıcıların ilgi alanlarına yönelik içerikleri takip etmelerini kolaylaştırır. Favorilere eklenen haberler, kullanıcının profilinde ayrı bir bölümde listelenir.
 
