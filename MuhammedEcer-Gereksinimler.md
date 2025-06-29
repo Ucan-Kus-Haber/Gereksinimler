@@ -1,6 +1,6 @@
 Yorum Yapma: Kullanıcıların haber içerikleri üzerinde görüşlerini paylaşmalarına olanak tanır. Bu özellik, platformdaki etkileşimi artırır ve kullanıcıların içerik hakkında geri bildirim vermesini sağlar. Yorum yapma süreci, genellikle bir metin giriş alanı ve gönder butonu aracılığıyla gerçekleştirilir. Yorumların platform kurallarına uygun olması için belirli denetim mekanizmaları bulunabilir.
 
-Yorumları Şikayet Etme: Kullanıcıların, uygunsuz veya kurallara aykırı olduğunu düşündükleri yorumları platforma bildirmelerini sağlar. Bu özellik, topluluk kurallarının korunmasına ve kullanıcı deneyiminin iyileştirilmesine katkı sağlar. Şikayet edilen yorumlar, moderatörler tarafından incelenerek gerekli işlemler yapılır.
+Yorumlara Cevap Verme: Kullanıcıların, diğer kullanıcıların yaptığı yorumlara doğrudan cevap yazabilmesini sağlar. Bu özellik, platform üzerinde etkileşimi ve tartışma kültürünü geliştirir. Kullanıcılar, fikir alışverişinde bulunabilir, sorular sorabilir veya paylaşılan görüşlere katkıda bulunabilir. Cevaplama sistemi, yorumların altına hiyerarşik (iç içe) şekilde yerleştirilerek okunabilirliği artırır. Bu sayede topluluk içi iletişim daha canlı ve verimli hale gelir.
 
 Haberleri Beğenme (Like/Dislike): Kullanıcıların haber içeriklerine olumlu (beğenme) veya olumsuz (beğenmeme) tepki vermelerine olanak tanır. Bu özellik, haberlerin popülerliğini ölçmek ve kullanıcı tercihlerine göre içerik önerileri sunmak için kullanılabilir. Beğeni/Beğenmeme işlemleri genellikle bir ikon veya buton aracılığıyla gerçekleştirilir.
 
