@@ -58,8 +58,8 @@ DOCKER IMAGE -->>  azatik/ucankus-deploy2
 [MuhammedEcer](https://youtu.be/LlsjZ4rEEJU)
 
 15. **Yorum Yapma**
-16. **Şikayet Etme**
-17. **Haberleri Beğenme (Like/Dislike)**
+16. **Yorumlara Cevap Verme**
+17. **Yorumları Beğenme(like)**
 18. **Haberleri Favorilere Ekleme**
 19. **Dil Seçenekleri**
 20. **En Çok Okunan Haberler Listesi**
