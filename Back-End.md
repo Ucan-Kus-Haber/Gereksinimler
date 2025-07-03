@@ -55,6 +55,8 @@ DOCKER IMAGE -->>  azatik/ucankus-deploy2
 
 
 ## Muhammed Ecer Gereksinimleri
+[MuhammedEcer](https://youtu.be/LlsjZ4rEEJU)
+
 15. **Yorum Yapma**
 16. **Şikayet Etme**
 17. **Haberleri Beğenme (Like/Dislike)**
