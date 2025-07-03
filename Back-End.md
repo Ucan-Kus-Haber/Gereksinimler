@@ -64,6 +64,8 @@ DOCKER IMAGE -->>  azatik/ucankus-deploy2
 
 
 ## Emre Can Reyhan Gereksinimleri
+[EmreCanReyhan](https://youtu.be/NTSKDDSHW4s)
+
 21. **Admin Paneli (Kullanıcı ve Haber Yönetimi)**
 22. **Arama Çubuğu**
 23. **Reklam Ekleme**
