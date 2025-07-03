@@ -44,6 +44,8 @@ DOCKER IMAGE -->>  azatik/ucankus-deploy2
 
 
 ## Muhittin Dayan Gereksinimleri
+[Muhittin Dayan](https://youtu.be/f4508zNT1sI)
+
 9. **Kullanıcı Kaydı**
 10. **Kullanıcı Girişi**
 11. **Şifremi Unuttum**
